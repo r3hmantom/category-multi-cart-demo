@@ -1,3 +1,5 @@
+![Multi-Cart — Per-category carts · React](docs/banner.png)
+
 # Category Multi-Cart Demo
 
 **Live:** [category-multi-cart-demo.vercel.app](https://category-multi-cart-demo.vercel.app)
